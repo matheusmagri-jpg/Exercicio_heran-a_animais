@@ -1,0 +1,28 @@
+# Java compilado
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+nbbin/
+
+# Build
+bin/
+out/
+target/
+build/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
